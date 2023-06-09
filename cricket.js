@@ -8,7 +8,7 @@ let apiKey = '98f506f374da4df68cdf0bf4ae7cf4b0'
 let newsadding1= document.getElementById('item1');
 
 
-
+// 
           
           
   // Create an ajax get request
